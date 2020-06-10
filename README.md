@@ -1,7 +1,8 @@
-This is a vanilla javascript project with ref to @John-Smilga
-Create a shopping cart using vanilla javascript
+This is a vanilla javascript project with reference to @John-Smilga.
 
-User Interface has the following (i.e lading page)
+# Create a shopping cart using vanilla javascript
+
+# User Interface has the following (i.e lading page)
 
 1. A navbar with the following;
    a. Menu Icon.
